@@ -1,8 +1,6 @@
 # Explainable Artificial Intelligence Sample Project
 Explainable Artificial Intelligence (XAI) means making Artificial Intelligence systems (AI) more transparent, such that their decisions can be understood. 
 
-These python scripts/notebook was intended, to learn just that (XAI).
-
 Here, deep learning is used to classify a chosen text as positive, negative or neutral, on the basis of it's content. After the classification, a method called LRP (Layer-wise Relevance Propagation) is applied to explain why the deep learning system came to it's decision, making it an XAI system instead of a black-box system.
 
 The LRP implementation is based on the following papers:
